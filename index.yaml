@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  social-payments-account-registry:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-03-18T09:39:40.466561804Z"
+    description: A Helm chart for Social Payments Account Registry
+    digest: 00a7863ae371ef5d554cba66c47515705cc0eccfd1371db48d86862df1449b65
+    name: social-payments-account-registry
+    type: application
+    urls:
+    - social-payments-account-registry-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-18T09:39:40.454357871Z"
